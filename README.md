@@ -20,6 +20,7 @@ The areas I have learnt here are:
 
 **CSS**
 * Basic layout & Alignment
+* CSS Events
 * specificity of the element selectors
 * Inheritance and The Cascade
 * BoX Model
