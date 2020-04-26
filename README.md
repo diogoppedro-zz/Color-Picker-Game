@@ -4,6 +4,12 @@ The Functions and refactoring was also a very cool aread and isolating some funt
 
 The areas I have learnt here are:
 
+**HTML**
+* SImple apprach (Advanced not required)
+* DIVS
+* Ids
+* Classes
+
 **JavaScript**
 * INIT()
 * DOM Manipulation
@@ -13,6 +19,14 @@ The areas I have learnt here are:
 * Randomsized values
 
 **CSS**
+* Basic layout & Alignment
 * specificity of the element selectors
 * Inheritance and The Cascade
+* BoX Model
+* Sizing
+* Small Section on Trasnform 
+
+
+
+
 
